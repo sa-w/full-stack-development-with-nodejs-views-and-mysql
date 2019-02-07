@@ -1,6 +1,7 @@
-# company
+# ncompany
 An online data storage and management system. Development still ongoing...
-REQUIREMENTS
+# REQUIREMENTS
 -Node Js
 -IDE(Visual studio code..any can do)
--Node Js modules(Express, events, bodyparser
+-Node Js modules(Express, events, bodyparser, path)
+-EJS Extension for visual studio code
